@@ -3,6 +3,8 @@ Notes for my boys and nephews on how to troubleshoot various problems and how to
 
 ### Topics Coverage
 
+**Automotive**
+- [Replace GMC Yukon XL door latch](https://github.com/FishheadNate/Copeys_How_Tos/blob/main/docs/Replace-GMC-Yukon-Door-Latch.md)
 
 ---
 
